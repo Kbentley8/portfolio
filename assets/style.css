@@ -69,7 +69,7 @@ header {
     list-style-type: none;    
   }
   nav a{
-    color: red;
+    color:rgb(252, 7, 191);
     font-weight: bold;
     text-decoration: none;
   }
@@ -105,7 +105,7 @@ header {
     bottom: 12px;
     margin: 10px;
     opacity: 0.5;
-    border: 5px solid rgb(7, 64, 252);
+    border: 5px solid rgb(252, 7, 178);
   
   }
   #code{
@@ -116,7 +116,7 @@ header {
     bottom: 16px;
     margin:5px;
     opacity: 0.5;
-    border: 5px solid rgb(7, 64, 252);
+    border: 5px solid rgb(252, 7, 178);
 
   }
   p {
