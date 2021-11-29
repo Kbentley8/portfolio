@@ -1,5 +1,12 @@
-# This is my Portfolio 
+# My Portfolio 
 
-[Link to Portfolio](https://kbentley8.github.io/portfolio/)
-   <p> In this project, I was tasked with creating a portofolio website that features an about me page, photo of me, a link to my current work, and a list of ways to get in contact with me. I used html, css, and javascript to complete this homework. 
+# Description:
+
+<p> A simple portfolio website that features contact info, my projects, and my resume
    </p>
+
+# Deployment Link
+[Link to Portfolio](https://kbentley8.github.io/portfolio/)
+   
+
+   # Screenshot
